@@ -1,3 +1,42 @@
 # food_shopper
 
-A new Flutter project.
+Food Shopper is an application where various food items and prices are being showcased for users to see. It was built using the [flutter SDK](https://flutter.dev/) and the [Timbu App](https://app.timbu.cloud/). It Currrently features a page with Food items and a food details dialog.
+
+## Getting Started
+
+
+### Timbu API setup
+First go to the Timbu website using this [link](https://app.timbu.cloud/) and create a business account. Then create a new retail product. After that, check out the [Api Documentation](https://docs.timbu.cloud/) to know how to create and get your own organization ID, App ID and API Key.
+
+### Flutter Setup
+
+To setup the flutter SDK for development, there is a comprehensive guild [here](https://docs.flutter.dev/get-started/install).
+
+### Project Setup
+
+To build this project on your pc, follow the following instructions.
+
+- Clone this repository using the command `git clone  https://github.com/Drebaba1/food_shopper.git`.
+- Put in your apiKey
+- Run `flutter pub get` to get all the required dependencies.
+- Run `flutter build` to build the project into it's respective platforms.
+
+### Running the application
+
+Make sure you have either a pyhsical android device connected to your computer or an anrdoid emulator to run the project.
+Use the command `flutter run` to run the application.
+
+### Features
+
+- View details of products.
+
+
+
+## Apk Download
+
+you can download the apk file [here](app-release.apk)
+
+
+## Demo 
+
+You can view the App Demo : https://appetize.io/app/b_cyncsfjg3l2q2cwnfarqkvrjoy
